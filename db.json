@@ -1,0 +1,84 @@
+  
+{
+  	"pokemon": [
+		{
+			"id": 1,
+			"name": "Pikachu",
+			"type": "Electric"
+		},
+		{
+			"id": 2,
+			"name": "Bulbasaur",
+			"type": "Grass"
+		},
+		{
+			"id": 3,
+			"name": "Squirtle",
+			"type": "Water"
+		},
+		{
+			"id": 4,
+			"name": "Charmander",
+			"type": "Fire"
+		},
+    {
+			"id": 5,
+			"name": "Diglett",
+			"type": "Ground"
+		}
+	],
+	"locations": [
+		{
+			"id": 1,
+			"name": "celadon-city",
+			"url": "https://pokeapi.co/api/v2/location/67/"
+		},
+		{
+			"id": 2,
+			"name": "cerulean-city",
+			"url": "https://pokeapi.co/api/v2/location/68/"
+		},
+		{
+			"id": 3,
+			"name": "cinnabar-island",
+			"url": "https://pokeapi.co/api/v2/location/71/"
+		},
+		{
+			"id": 4,
+			"name": "digletts-cave",
+			"url": "https://pokeapi.co/api/v2/location/73/"
+		}
+	],
+	"version_groups": [
+		{
+			"id": 1,
+			"name": "red-blue",
+			"url": "https://pokeapi.co/api/v2/version-group/1/"
+		},
+		{
+			"id": 2,
+			"name": "yellow",
+			"url": "https://pokeapi.co/api/v2/version-group/2/"
+		},
+		{
+			"id": 3,
+			"name": "gold-silver",
+			"url": "https://pokeapi.co/api/v2/version-group/3/"
+		},
+		{
+			"id": 4,
+			"name": "crystal",
+			"url": "https://pokeapi.co/api/v2/version-group/4/"
+		},
+		{
+			"id": 5,
+			"name": "firered-leafgreen",
+			"url": "https://pokeapi.co/api/v2/version-group/7/"
+		},
+		{
+			"id": 6,
+			"name":"heartgold-soulsilver",
+			"url": "https://pokeapi.co/api/v2/version-group/10/"
+		}
+	]
+}
